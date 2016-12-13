@@ -1,0 +1,5 @@
+name = Ajax Link
+description = Display ajax link to current time.
+package = Epicodus Examples
+core = 7.x
+scripts[] = ajax_link.js
